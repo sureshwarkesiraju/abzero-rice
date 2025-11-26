@@ -64,10 +64,10 @@ This installs:
 
 Does **NOT**:
 
-- ❌ touch config files
-- ❌ install themes
-- ❌ install scripts
-- ❌ copy wallpapers
+-  touch config files
+-  install themes
+-  install scripts
+-  copy wallpapers
 
 ---
 
